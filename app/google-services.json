@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811811311187",
+    "firebase_url": "https://gestoria-c33e9.firebaseio.com",
+    "project_id": "gestoria-c33e9",
+    "storage_bucket": "gestoria-c33e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811811311187:android:6b40cf7bb158e8fd6180a6",
+        "android_client_info": {
+          "package_name": "com.jadomin.gestoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811811311187-p61tk32364ub6hdph0dm79ttk20nf1pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwyW1VFg4YtZ80l127lveV1xdmQ0woF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811811311187-p61tk32364ub6hdph0dm79ttk20nf1pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
