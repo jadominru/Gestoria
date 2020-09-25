@@ -15,4 +15,5 @@
     <string name="password">Password</string>
     <string name="repita_password">Repita password</string>
     <string name="email">Email</string>
+    <string name="registrar">Registrar</string>
 </resources>
